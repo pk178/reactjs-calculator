@@ -96,8 +96,6 @@ class Calculator extends Component{
                         case ':':
                             calResult = number1 / number2;
                             break;
-                        case 'Sqrt':
-                            
                             break;
                         case '%':
                             calResult = number1 % number2;
